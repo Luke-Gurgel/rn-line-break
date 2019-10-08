@@ -22,5 +22,10 @@
     "android"
   ],
   "author": "Lucas Gurgel",
+  "homepage": "https://github.com/Luke-Gurgel/rn-line-break",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Luke-Gurgel/rn-line-break"
+  },
   "license": "ISC"
 }
