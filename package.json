@@ -1,0 +1,26 @@
+{
+  "name": "rn-line-break",
+  "version": "0.0.2",
+  "description": "A react-native component that facilitates adding new lines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react native",
+    "react-component",
+    "react-native-component",
+    "react-native-line-break",
+    "react native line break",
+    "react-native-break",
+    "react native break",
+    "line",
+    "break",
+    "mobile",
+    "ios",
+    "android"
+  ],
+  "author": "Lucas Gurgel",
+  "license": "ISC"
+}
